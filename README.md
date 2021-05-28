@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Wafaa Mohamed
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning embedded system software
+- 💞️ I’m looking to collaborate on how to program in different programing languages 
+- 📫 Reach me via E-mail: wafaa_mohamed_a@hotmail.com
